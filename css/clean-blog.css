@@ -1,3 +1,9 @@
+/*!
+ * Clean Blog v1.0.0 (http://startbootstrap.com)
+ * Copyright 2015 Start Bootstrap
+ * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -24,7 +30,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #8765AF;
+  color: #0085a1;
 }
 a img:hover,
 a img:focus {
@@ -162,8 +168,8 @@ hr.small {
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
   font-size: 24px;
-  line-height: 1.1;
-  display: block;
+  line-height: 1.1,
+			display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
@@ -211,7 +217,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #8765AF;
+  color: #0085a1;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -363,8 +369,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #8765AF;
-  border: 1px solid #60467e;
+  background-color: #0085a1;
+  border: 1px solid #0085a1;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
